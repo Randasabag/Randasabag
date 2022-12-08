@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about SQL, Python, Tableau, Knime, Excel
 - 📫 How to reach me: alsabbaghranda@gmail.com
-![Linkedin](https://github.com/Randasabag/img.git/linkedin.svg)
+![Linkedin](https://github.com/Randasabag/img/linkedin.svg)
 
 
 
