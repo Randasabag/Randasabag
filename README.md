@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about #SQL, Python, Tableau, Knime, Excel
 - 📫 How to reach me: alsabbaghranda@gmail.com
 
-![linkedin](https://user-images.githubusercontent.com/72505892/206494075-93a228cd-7a13-4fad-942a-d7d0217ec34d.svg)
+[![linkedin](https://user-images.githubusercontent.com/72505892/206494075-93a228cd-7a13-4fad-942a-d7d0217ec34d.svg)](https://www.linkedin.com/in/randa-alsabbagh/)
