@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: alsabbaghranda@gmail.com
 
 [![linkedin](https://user-images.githubusercontent.com/72505892/206494075-93a228cd-7a13-4fad-942a-d7d0217ec34d.svg)](https://www.linkedin.com/in/randa-alsabbagh/)
+[![gmail](https://raw.githubusercontent.com/Randasabag/img/69af9ef3b86cabf15db41afa43a83ffab0b08d11/gmail.svg)](alsabbaghranda@gmail.com)
+
+
