@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Randasabag/Randasabag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Randasabag/Randasabag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about #SQL, Python, Tableau, Knime, Excel
 - 📫 How to reach me: alsabbaghranda@gmail.com
 
-![linkedin](https://user-images.githubusercontent.com/72505892/206500899-ce924514-565f-444d-a6a3-df8508976abe.png)
+![linkedin](https://user-images.githubusercontent.com/72505892/206494075-93a228cd-7a13-4fad-942a-d7d0217ec34d.svg)
