@@ -12,7 +12,13 @@ Here are some ideas to get you started:
 [![linkedin](https://user-images.githubusercontent.com/72505892/206494075-93a228cd-7a13-4fad-942a-d7d0217ec34d.svg)](https://www.linkedin.com/in/randa-alsabbagh/)
 [![gmail](https://raw.githubusercontent.com/Randasabag/img/69af9ef3b86cabf15db41afa43a83ffab0b08d11/gmail.svg)](mailto:alsabbaghranda@gmail.com)
 
-[![python](https://raw.githubusercontent.com/Randasabag/img/main/python.svg)](https://www.linkedin.com/in/randa-alsabbagh/)
+[![python](https://raw.githubusercontent.com/Randasabag/img/main/pyton.svg)](https://www.python.org/)
+[![postgresql](https://raw.githubusercontent.com/Randasabag/img/main/PostgreSQL.svg)](https://www.python.org/)
+[![tableau](https://raw.githubusercontent.com/Randasabag/img/main/Tableaup.svg)](https://www.python.org/)
+[![macos](https://raw.githubusercontent.com/Randasabag/img/main/MacOS.svg)](https://www.python.org/)
+[![github](https://raw.githubusercontent.com/Randasabag/img/main/Github.svg)](https://www.python.org/)
+
+
 
 
 
