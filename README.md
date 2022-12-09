@@ -6,8 +6,14 @@
 Here are some ideas to get you started:-->
 
 - 📍 I live in Paris
-- 💻 have an I.T Master's Degree in "Image-Information-Hypermedia"
+<!--saut de ligne -->
+
+- 💻 I have an I.T Master's Degree in "Image-Information-Hypermedia"
+<!--saut de ligne -->
+
 - 💬 I speak currently French, English, Arabic and Turkish and have basics in Spanish
+<!--saut de ligne -->
+
 - Tools & Programming languages :
 <!--saut de ligne -->
 [![tableau](https://raw.githubusercontent.com/Randasabag/img/main/Tableaup.svg)](https://www.tableau.com/)
@@ -15,6 +21,8 @@ Here are some ideas to get you started:-->
 [![postgresql](https://raw.githubusercontent.com/Randasabag/img/main/PostgreSQL.svg)](https://www.postgresql.org/)
 [![macos](https://raw.githubusercontent.com/Randasabag/img/main/MacOS.svg)](https://www.apple.com/)
 [![github](https://raw.githubusercontent.com/Randasabag/img/main/Github.svg)](https://github.com/Randasabag)
+<!--saut de ligne -->
+
 - 📫 How to reach me :   
                   [![linkedin](https://user-images.githubusercontent.com/72505892/206494075-93a228cd-7a13-4fad-942a-d7d0217ec34d.svg)](https://www.linkedin.com/in/randa-alsabbagh/)         [![gmail](https://raw.githubusercontent.com/Randasabag/img/69af9ef3b86cabf15db41afa43a83ffab0b08d11/gmail.svg)](mailto:alsabbaghranda@gmail.com)
 
