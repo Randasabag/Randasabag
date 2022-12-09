@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![macos](https://raw.githubusercontent.com/Randasabag/img/main/MacOS.svg)](https://www.apple.com/)
 [![github](https://raw.githubusercontent.com/Randasabag/img/main/Github.svg)](https://github.com/Randasabag)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.randasabag&left_color=blue&right_color=purple)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.randasabag.visitor-badge&left_color=blue&right_color=purple)
 
 
 
