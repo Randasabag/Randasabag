@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 [![gmail](https://raw.githubusercontent.com/Randasabag/img/69af9ef3b86cabf15db41afa43a83ffab0b08d11/gmail.svg)](mailto:alsabbaghranda@gmail.com)
 
 [![python](https://raw.githubusercontent.com/Randasabag/img/main/pyton.svg)](https://www.python.org/)
-[![postgresql](https://raw.githubusercontent.com/Randasabag/img/main/PostgreSQL.svg)](https://www.python.org/)
-[![tableau](https://raw.githubusercontent.com/Randasabag/img/main/Tableaup.svg)](https://www.python.org/)
-[![macos](https://raw.githubusercontent.com/Randasabag/img/main/MacOS.svg)](https://www.python.org/)
-[![github](https://raw.githubusercontent.com/Randasabag/img/main/Github.svg)](https://www.python.org/)
+[![postgresql](https://raw.githubusercontent.com/Randasabag/img/main/PostgreSQL.svg)](https://www.postgresql.org/)
+[![tableau](https://raw.githubusercontent.com/Randasabag/img/main/Tableaup.svg)](https://www.tableau.com/)
+[![macos](https://raw.githubusercontent.com/Randasabag/img/main/MacOS.svg)](https://www.apple.com/)
+[![github](https://raw.githubusercontent.com/Randasabag/img/main/Github.svg)](https://github.com/Randasabag)
 
 
 
