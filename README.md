@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 - 💻 I have an I.T Master's Degree in "Image-Information-Hypermedia" and I followed a training in _Data Analytics_ with [Openclassrooms](https://www.openclassrooms.com/) 
 <!--saut de ligne -->
 
-- 💬 I speak currently French, English, Arabic and Turkish and have basics in Spanish
+- 💬 I speak currently French 🇫🇷, English 🇺🇸, Arabic 🇸🇾, Turkish 🇹🇷 & have basics in Spanish 🇪🇸
 <!--saut de ligne -->
 
 - Tools & Programming languages :
