@@ -1,5 +1,5 @@
 ### Hi there 👋 
-###  My name's Randa, I'm Data Analyst 
+###  Let's talk about Data !
 
 <!--
 **Randasabag/Randasabag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
