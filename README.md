@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - 💻 I have an I.T Master's Degree in "Image-Information-Hypermedia" & got a certification in Data Analytics with [Openclassrooms](https://openclassrooms.com)
 <!--saut de ligne -->
 
-- 💬 I speak currently French 🇫🇷, English 🇺🇸, Arabic 🇸🇦 & Turkish 🇹🇷 & have basics in Spanish 🇪🇸
+- 💬 I speak currently French 🇫🇷, English 🇺🇸, Arabic 🇸🇾 & Turkish 🇹🇷 & have basics in Spanish 🇪🇸
 <!--saut de ligne -->
 
 - Tools & Programming languages :
