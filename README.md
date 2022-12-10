@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Data Analyst
 
 <!--
 **Randasabag/Randasabag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,7 @@ Here are some ideas to get you started:-->
 - 📍 I live in Paris
 <!--saut de ligne -->
 
-- 💻 I have an I.T Master's Degree in "Image-Information-Hypermedia" and I followed a training in Data Analytics with [Openclassrooms](https://www.openclassrooms.com/) 
+- 💻 I have an I.T Master's Degree in "Image-Information-Hypermedia" and I followed a training in Data Analytics with ![Openclassrooms](https://openclassrooms.com)
 <!--saut de ligne -->
 
 - 💬 I speak currently French, English, Arabic and Turkish and have basics in Spanish
