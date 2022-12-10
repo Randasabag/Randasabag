@@ -28,7 +28,7 @@ Here are some ideas to get you started:-->
 
 [![linkedin](https://user-images.githubusercontent.com/72505892/206494075-93a228cd-7a13-4fad-942a-d7d0217ec34d.svg)](https://www.linkedin.com/in/randa-alsabbagh/)         [![gmail](https://raw.githubusercontent.com/Randasabag/img/69af9ef3b86cabf15db41afa43a83ffab0b08d11/gmail.svg)](mailto:alsabbaghranda@gmail.com)
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.randasabag.visitor-badge&left_color=blue&right_color=purple)
 
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=page.randasabag.visitor-badge&left_color=blue&right_color=purple)-->
 
