@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Data Analyst
-
+### Hi there 👋🏻 Let's talk about data 📊
 <!--
 **Randasabag/Randasabag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
