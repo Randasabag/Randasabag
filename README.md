@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 - 📍 I live in Paris
 <!--saut de ligne -->
 
-- 💻 I have an I.T Master's Degree in "Image-Information-Hypermedia" & got a certification in _Data Analytics_ with [Openclassrooms](https://www.openclassrooms.com/) 
+- 🤓 I have an I.T Master's Degree in "Image-Information-Hypermedia" & got a certification in _Data Analytics_ with [Openclassrooms](https://www.openclassrooms.com/) 
 <!--saut de ligne -->
 
 - 💬 I speak currently French 🇫🇷, English 🇺🇸, Arabic 🇸🇾, Turkish 🇹🇷 & have basics in Spanish 🇪🇸
@@ -22,7 +22,8 @@ Here are some ideas to get you started:-->
 
 ### Let's talk about Data !
 
-- Tools & Programming languages :
+- 🧐 I'm passionnate and curious about Data
+- 🖥️ Tools & Programming languages :
 <!--saut de ligne -->
 [![tableau](https://raw.githubusercontent.com/Randasabag/img/main/Tableaup.svg)](https://www.tableau.com/)
 [![python](https://raw.githubusercontent.com/Randasabag/img/main/pyton.svg)](https://www.python.org/)
