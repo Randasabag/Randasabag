@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 - 📍 I live in Paris
 <!--saut de ligne -->
 
-- 🤓 I have an I.T Master's Degree in "Image-Information-Hypermedia" & got a certification in _Data Analysis_ with [Openclassrooms](https://www.openclassrooms.com/) 
+- 🤓 I have an I.T Master's Degree in "Image-Information-Hypermedia" & got a diploma in _Data Analysis_ with [Openclassrooms](https://www.openclassrooms.com/) 
 <!--saut de ligne -->
 
 - 💬 I speak currently French 🇫🇷, English 🇺🇸, Arabic 🇸🇾, Turkish 🇹🇷 & have basics in Spanish 🇪🇸
