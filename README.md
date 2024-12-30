@@ -10,6 +10,12 @@ Here are some ideas to get you started:-->
 - 🤓 I have an I.T Master's Degree in "Image-Information-Hypermedia" & got a diploma in _Data Analysis_ with [Openclassrooms](https://www.openclassrooms.com/) 
 <!--saut de ligne -->
 
+- 🤖 Currently, I am preparing my Machine Learning diploma working on several projects from NLP to Deep Learning & Big Data.
+<!--saut de ligne -->
+
+- 🧰 I am also working on Generative IA projects (OpenAI, Azure, ...).
+<!--saut de ligne -->
+
 - 💬 I speak currently French 🇫🇷, English 🇺🇸, Arabic 🇸🇾, Turkish 🇹🇷 & have basics in Spanish 🇪🇸
 <!--saut de ligne -->
 
@@ -23,7 +29,7 @@ Here are some ideas to get you started:-->
 ### Let's talk about Data !
 
 - 🧐 I'm passionnate and curious about Data
-- 🖥️ Tools & Programming languages :
+- 🖥️ PowerBI, Snowflake, Databricks, MLFlow, MLOps, GitHubActions, VSCode, NLP, 
 <!--saut de ligne -->
 [![tableau](https://raw.githubusercontent.com/Randasabag/img/main/Tableaup.svg)](https://www.tableau.com/)
 [![python](https://raw.githubusercontent.com/Randasabag/img/main/pyton.svg)](https://www.python.org/)
